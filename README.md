@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Femigbenga08
 - 👀 I’m interested in data science , Business Analysis
 - 🌱 I’m currently wroking on Python , Pandas , Numpy
-- 💞️ I’m looking to collaborate on data science projects
+- 💞️ I’m looking to collaborate on more projects
 - 📫You can reach me on Ojogbenga40@gmail.com
